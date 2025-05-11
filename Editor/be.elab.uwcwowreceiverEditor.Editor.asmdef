@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.elab.uwcwowreceiverEditor",          
+    "references": ["be.elab.uwcwowreceiver"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
